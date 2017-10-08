@@ -1,5 +1,5 @@
 const mods = require('./constants');
-const modValues = Object.keys(mods).map(mod => mods[mod]);
+const modValues = Object.values(mods);
 
 let engineSubs = [];
 
