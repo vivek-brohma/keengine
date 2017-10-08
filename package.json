@@ -1,0 +1,22 @@
+{
+  "name": "keengine",
+  "version": "1.0.0",
+  "description": "Library to manage you key bindings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.bus.zalan.do:vbrohma/keengine.git"
+  },
+  "keywords": [
+    "javascript",
+    "keyengine",
+    "key",
+    "binding",
+    "library"
+  ],
+  "author": "Vivek Brohma",
+  "license": "ISC"
+}
